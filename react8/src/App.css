@@ -1,0 +1,10 @@
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(182, 148, 214);
+  height: 400px;
+  width: 400px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px hsla(0, 0%, 0.1%, 0.5)
+}

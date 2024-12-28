@@ -8,7 +8,7 @@ const App = () => {
       <Usergreeting userName="John" isLoggin={true} />
       <Usergreeting/>
       <Usergreeting userName="anis" isLoggin={true} />
-      <Usergreeting   userName="neeraj"  isLoggin={true}/>
+      <Usergreeting   userName="neeraj"~  isLoggin={true}/>
     </div>
   )
 }

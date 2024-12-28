@@ -1,0 +1,18 @@
+.counter-button{
+margin: 10px;
+height: 40px;
+width: 100px;
+border-radius: 20px;
+background-color: rgb(140, 97, 201);
+box-shadow: 5px 5px 5px hsla(0, 0%, 0.09%, 0.2);
+border: none;
+}
+
+  
+.value{
+  font-size: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
