@@ -9,7 +9,7 @@ const changeName = () => {
     setName("anis");
  }
 const increament = () => {
-        setAge(age + 1);}
+        setAge(age + 3);}
 const Toggle = () => {
     setisEmployed(!isEmployed);
 }
